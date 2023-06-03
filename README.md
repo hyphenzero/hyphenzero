@@ -4,6 +4,6 @@
 
 <br />
 
-<p align="center">I'm Jasper Gorchov, and I craft immersive web based apps and aesthetic 3D illustrations.</p>
+<h4 align="center">I'm Jasper Gorchov, and I craft immersive web based apps and aesthetic 3D illustrations.</p>
 
 <br />
