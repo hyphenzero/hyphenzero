@@ -1,8 +1,5 @@
 <div align="center">
-  <picture>
-    <source srcset="logo-light.png" media="(prefers-color-scheme: light)">
-    <img width="400" src="logo-dark.png" alt="Logo" />
-  </picture>
+  <img width="700" src="card.png" alt="Jasper Gorchov" />
 </div>
 
 <br />
