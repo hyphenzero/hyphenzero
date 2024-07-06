@@ -6,6 +6,6 @@
 <br />
 <div align="center">
 
-![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyphenzero&hide_rank=true&theme=github_dark)
+![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyphenzero&hide_rank=true&theme=github_dark_dimmed&custom_title=📊%20Stats&include_all_commits=true)
 
 </div>
