@@ -1,5 +1,5 @@
 <h1 align="center">Jasper Gorchov</h1>
-<p align="center">13-year-old developer, designer, and digital artist</p>
+<p align="center">14-year-old developer, designer, and digital artist</p>
 <br />
 <p align="center"><a href="https://jaspergorchov.com">jaspergorchov.com</a> | <a href="https://www.behance.net/jaspergorchov">Behance</a></p>
 <br />
